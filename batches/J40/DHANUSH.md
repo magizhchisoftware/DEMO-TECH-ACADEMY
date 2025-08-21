@@ -1,7 +1,5 @@
-# STUDENTS REPOSITORIES
-
-# DHANUSH RAM
-     * [TRAINING](https://github.com/sivadhanush726/training)
+# Dhanush 
+     1. [TRAINING](https://github.com/sivadhanush726/training)
   
      * [PROJECTS](https://github.com/sivadhanush726/project)
   
